@@ -50,10 +50,10 @@ When your game is running, on the top-left there is an *open project panel* bu
 
 The project panel contains the following tabs:
 
--   Scenery: add and remove scenery such as trees, buildings, tables, etc. to your level
--   Actors: add and remove game characters and monsters
--   Project tree: overview of your complete game, data and resources
--   Settings: settings of the currently selected actor, level, ...
+-   **Scenery**: add and remove scenery such as trees, buildings, tables, etc. to your level
+-   **Actors**: add and remove game characters and monsters
+-   **Project tree**: overview of your complete game, data and resources
+-   **Settings**: settings of the currently selected actor, level, ...
 
 ### Menu button
 
