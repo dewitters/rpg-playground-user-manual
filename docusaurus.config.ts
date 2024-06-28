@@ -52,7 +52,7 @@ const config: Config = {
     navbar: {
       title: 'RPG Playground User Manual',
       logo: {
-        alt: 'My Site Logo',
+        alt: 'RPG Playground Logo',
         src: 'img/logo.png',
       },
       items: [
@@ -62,6 +62,11 @@ const config: Config = {
           position: 'right',
         },
       ],
+    },
+    docs: {
+      sidebar: {
+        autoCollapseCategories: true,
+      },
     },
     footer: {
       style: 'dark',
