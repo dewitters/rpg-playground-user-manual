@@ -17,14 +17,15 @@ RPG Playground is the easiest way to make your own Action RPG. It runs in your w
 
 A great story and a lot of imagination is all you need. Programming, graphics and music is provided.
 
-RPG Playground is constantly under development, so new features are added all the time. Take a look at our roadmap to see what is being worked on. You can vote on your favorite features to move them up in priority.
+RPG Playground is constantly under development, so new features are added all the time. Take a look at [our roadmap](https://trello.com/b/5i4VvOW8) to see what is being worked on. You can vote on your favorite features to move them up in priority.
 
 RPG Playground is created by me, Koen Witters. If you have questions or want to propose some new feature, you can reach out at:
 
 - 📰 [RPG Playground community](https://rpgplayground.com/activity/)
 - 💬 [Discord chat](https://discord.gg/tyHjdt3)
 - 📣 [Reddit forum](https://www.reddit.com/r/rpgplayground/)
-- ✉️ Email me at info@rpgplayground.com.
+- ✉️ Email me at [info@rpgplayground.com](mailto:info@rpgplayground.com)
+
 
 ## Features
 
@@ -44,7 +45,8 @@ Quick overview of the features of your game:
 - Inventory items & pickups
 - Equipment
 
-## What is different about RPG Playground?
+
+## What makes RPG Playground different?
 
 In RPG Playground you build your game while you play it. This means you get instant feedback of your changes. Simply open the project panel on the left, and make your changes straight away. There is no real separation between editor and game anymore, you design your game while playing it.
 

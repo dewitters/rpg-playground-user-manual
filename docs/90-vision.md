@@ -1,11 +1,13 @@
 # Vision Statement
 
 
-## Our Vision
+:::info[Our Vision]
 
-**RPG Playground is fun and easy to make the game of your dreams, and share it with the world.**
+RPG Playground is **fun and easy** to make the **game of your dreams**, and **share it** with the world.
 
-> I wish that one of my users will create the next game hit, and do this without any prior knowledge or experience on how to develop games.
+My wish is that one of our users will create the next game hit, and do this without any prior knowledge or experience on how to develop games.
+
+:::
 
 RPG Playground needs to be both **super user friendly**, *and* **powerful**. This is not an easy combination, because the more things you can to with a product, the harder it becomes to understand and use it.
 
