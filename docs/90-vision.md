@@ -1,17 +1,17 @@
-# Vision Statement
+# Vision statement
 
 
 :::info[Our Vision]
 
 RPG Playground is **fun and easy** to make the **game of your dreams**, and **share it** with the world.
 
-My wish is that one of our users will create the next game hit, and do this without any prior knowledge or experience on how to develop games.
-
 :::
 
 RPG Playground needs to be both **super user friendly**, *and* **powerful**. This is not an easy combination, because the more things you can to with a product, the harder it becomes to understand and use it.
 
 But there is a way that RPG Playground is able to combine the two, and this is by using multiple abstraction layers. If you are a new user, you start working in the top layer, and don't need to know anything about those lower layers. And when you gain more experience, you can work your way through the lower layers, and are able to customize everything inside your game.
+
+> My wish is that one of our users will create the next game hit, and do this without any prior knowledge or experience on how to develop games.
 
 ## How?
 

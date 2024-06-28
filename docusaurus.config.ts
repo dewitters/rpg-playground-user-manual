@@ -49,13 +49,11 @@ const config: Config = {
   ],
 
   themeConfig: {
-    // Replace with your project's social card
-    image: 'img/docusaurus-social-card.jpg',
     navbar: {
       title: 'RPG Playground User Manual',
       logo: {
         alt: 'My Site Logo',
-        src: 'img/logo.svg',
+        src: 'img/logo.png',
       },
       items: [
         {
@@ -67,7 +65,7 @@ const config: Config = {
     },
     footer: {
       style: 'dark',
-      copyright: `Copyright © ${new Date().getFullYear()} Koen Witters, Inc. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Koen Witters. Built with Docusaurus.`,
     },
     prism: {
       theme: prismThemes.github,
