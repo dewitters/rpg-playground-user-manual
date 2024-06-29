@@ -10,14 +10,14 @@ However, when you look at their preferences, they [greatly differ](https://en.wi
 
 In gaming, men prefer *sports*, *action shooters* and *strategy games*. Women prefer *puzzle games*, *exploration*, and *story-driven games*. Their primary motivations of why they play games are very different:
 
-### Girls enjoy:
+### Girls enjoy
 
 - **Fantasy**: Immersion and exploring other worlds
 - **Design**: Expressing themselves, building or customizing things
 - **Community**: Socializing and collaborating with others
 - **Story**: Elaborate narrative and well-developed characters
 
-### Boys enjoy:
+### Boys enjoy
 
 - **Competition**: Competing with other players
 - **Destruction**: Blowing things up, creating chaos

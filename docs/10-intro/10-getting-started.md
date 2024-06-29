@@ -8,7 +8,7 @@ Register with either your *email address*, or with a *social login* such as Goog
 
 :::warning[Don't use your real name]
 
-For privacy reasons, don't use your real name as your username. Instead, use a nickname or a pseudonym.
+For privacy reasons, use a nickname or a pseudonym as your username.
 
 :::
 
