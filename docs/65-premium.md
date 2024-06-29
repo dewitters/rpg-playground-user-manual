@@ -1,4 +1,4 @@
-# Premium version
+# Premium version ⭐
 
 RPG Playground is **freemium**, which means that
 

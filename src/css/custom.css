@@ -28,3 +28,12 @@
   --ifm-color-primary-lightest: #9cd6d9;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
+
+
+.premium {
+  color: #c4c000;
+}
+
+[data-theme='dark'] .premium {
+  color: #c8d600;
+}

@@ -4,22 +4,34 @@ slug: /
 
 # Introduction
 
-This is the complete documentation on how to create your own Role Playing Game using RPG Playground.
+## Overview
 
-If you just want a quick introduction, take a look at the following YouTube video:
+This is the **complete documentation** on how to make your own Role Playing Games using [**RPG Playground**](https://rpgplayground.com).
+
+If you just want a quick introduction, take a look at the following [tutorial YouTube video](https://www.youtube.com/watch?v=D54SjyJAxjs):
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/D54SjyJAxjs?si=4jm1QdjVRMaZF14T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 ## What is RPG Playground?
 
-RPG Playground is the easiest way to make your own Action RPG. It runs in your web browser and you can try it at http://rpgplayground.com.
+RPG Playground is the *easiest* tool to make your own games. **No coding** and **no download** required. It runs in your web browser and you can **register for free** at [rpgplayground.com](https://rpgplayground.com).
 
-A great story and a lot of imagination is all you need. Programming, graphics and music is provided.
+Imagination is all you need! Programming, graphics and music are provided by us.
 
-RPG Playground is constantly under development, so new features are added all the time. Take a look at [our roadmap](https://trello.com/b/5i4VvOW8) to see what is being worked on. You can vote on your favorite features to move them up in priority.
+Next to making your own games, you can also **share** them, and [**play games** made by others](https://rpgplayground.com/play/).
 
-RPG Playground is created by me, Koen Witters. If you have questions or want to propose some new feature, you can reach out at:
+RPG Playground is constantly under development, so new features are added all the time. Take a look at [our roadmap](https://trello.com/c/OqfFeR7L) to see what is being worked on. You can [vote on your favorite features](https://trello.com/c/OqfFeR7L) to move them up in priority.
+
+RPG Playground is created by me, Koen Witters. You can find me in all the RPG Playground communities listed below. 
+
+## Questions and answers
+
+If you can't find what you are looking for, you can **search**:
+
+- ❓ [Frequenty Asked Questions](https://rpgplayground.com/faqs/).
+
+If you have other **questions**, want to propose **new features**, or just want to **hang out** in our community, reach out at:
 
 - 📰 [RPG Playground community](https://rpgplayground.com/activity/)
 - 💬 [Discord chat](https://discord.gg/tyHjdt3)
@@ -29,73 +41,69 @@ RPG Playground is created by me, Koen Witters. If you have questions or want to 
 
 ## Features
 
-The main features of the RPG Playground editor:
+### Build your game while playing it
+
+In RPG Playground, you make your game while you play it. There is **no separation between editor and game**.
+
+1. Play your game
+2. Open the project panel
+3. Make changes
+4. Continue playing
+
+:::danger[Most other game maker tools]
+
+Other game maker tools require you to:
+
+1. Edit your game in a separate editor
+2. Generate the game (can take some time)
+3. Restart your game for playtesting
+
+This kind of workflow is **cumbersome** and **time consuming**.
+
+:::
+
+
+:::note
+
+I was inspired by [Minecraft](https://www.minecraft.net/) when I created the **build while playing** feature. In Minecraft, you can build your world while you are playing it. This is a very intuitive way of creating content, and I wanted to bring this to RPG Playground.
+
+:::
+
+### No coding required
+
+Our super simple action system allows anyone to add conversations, cut-scenes, and game logic without writing a single line of code.
+
+The action wizard will ask you to select:
+
+1. **Who** needs to do something (the subject)
+2. **What** needs to be done (the action)
+3. **Details** of the action (such as what to say or where to go)
+
+A new action is then added to a list of actions, which reads like a book or a movie screenplay.
+
+![](./img/actions_example.png)
+
+### No download or installation needed
+
+Play straight in your web browser, both on desktop or mobile.
+
+That means Chromebooks, iPads, and even your phone can be used to create games.
+
+
+### Game & editor features
+
+#### Editor
 
 - Build your world and indoor scenes
 - Add interactive NPC’s, monsters and objects to your world
 - Create complex conversations and cut-scenes without coding
 
-Quick overview of the features of your game:
+#### Game
 
-- Play in the web browser, on desktop and mobile
 - Control the main hero
 - Outdoor and indoor levels
 - Talk to NPC’s
 - Action RPG combat system
-- Inventory items & pickups
-- Equipment
+- Inventory items & pickups [⭐](premium)
+- Equipment [⭐](premium)
 
-
-## What makes RPG Playground different?
-
-In RPG Playground you build your game while you play it. This means you get instant feedback of your changes. Simply open the project panel on the left, and make your changes straight away. There is no real separation between editor and game anymore, you design your game while playing it.
-
-The normal workflow of game maker tools is to start up the editor, edit tilemaps, behaviours, etc, and then generate the game. Once the game is generated, you can test it. If you want to change something, you exit the game and go back to the editor. This kind of workflow can be cumbersome and time consuming.
-
-There are several advantages using our approach:
-
-- You see the impact of your changes immediately in the game
-- It’s more fun to work inside your game than inside a boring editor
-- No need to search for the resource to adapt, you can just click on it and start editing
-- Continue playing where you left off
-- No need to compile/build your game before you play it
-
-
-# Vision statement
-
-
-:::info[Our Vision]
-
-RPG Playground is **fun and easy** to make the **game of your dreams**, and **share it** with the world.
-
-:::
-
-RPG Playground needs to be both **super user friendly**, *and* **powerful**. This is not an easy combination, because the more things you can to with a product, the harder it becomes to understand and use it.
-
-But there is a way that RPG Playground is able to combine the two, and this is by using multiple abstraction layers. If you are a new user, you start working in the top layer, and don't need to know anything about those lower layers. And when you gain more experience, you can work your way through the lower layers, and are able to customize everything inside your game.
-
-> My wish is that one of our users will create the next game hit, and do this without any prior knowledge or experience on how to develop games.
-
-## How?
-
-1.  Start with a game genre, where everything is already provided.
-2.  No programming. If you can read, you can add and change functionality.
-3.  You edit the game while playing it, making it extra fun.
-4.  Our community is supportive and helps you bring your vision to life.
-
-Our first product will focus on creating 2D RPG games, and is called RPG Playground. But ultimately the goal is that you can create any game you want.
-
-## User profiles
-
-
-#### Game designer
-
-You design levels, add characters to it, and add cutscenes, dialogues, etc. You work with scenes, stages, scenery and actors. Define new functionality with actions.
-
-#### Gameplay scripter
-
-You can define new actors and add or remove behaviors. You can even script new behaviors for actors. Add or change any functionality you want. Maybe some day also including editor functionality.
-
-#### Artist
-
-You draw your own tiles, characters and objects, even with animations. and can import them as a resource into your game. Or you compose your own music and use that for the game. Edit with external tools, import into RPG Playground library.
