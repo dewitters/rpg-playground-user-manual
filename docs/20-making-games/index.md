@@ -2,7 +2,7 @@
 
 ## Your first game
 
-RPG Plaground is ideal for making your first game. It's **simple,** **intuitive** and **easy**. And most of all, it makes game development **fun**!
+RPG Playground is ideal for making your first game. It's **simple,** **intuitive** and **easy**. And most of all, it makes game development **fun**!
 
 
 ## The edit panel
@@ -36,7 +36,7 @@ The *edit panel* contains the following tabs:
 Press the `Menu` button to open a popup with:
 
 - `Restart game`: Restarts your game from the beginning
-- `Fullscreen`: Maximise RPG Playground over your entire screen.
+- `Fullscreen`: Maximize RPG Playground over your entire screen.
 
 
 ### ![](img/close_button.png) Close button
