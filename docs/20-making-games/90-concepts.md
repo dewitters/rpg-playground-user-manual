@@ -41,20 +41,3 @@ The difference between scenery and actors is that scenery doesn't interact with 
 ### Actors
 
 Actors are the interactive part of the game. Examples are the main hero, enemies, animals, etc. . But remark that interactive objects such as doors, treasure chests, moving cars, etc. are also described as actors. They play an interactive role inside our game, and are therefore called actors.
-
-## The Project Panel
-
-Now that you know the basic components of an RPG Playground game, let's see how we can work with it in practice.
-
-When your game is running, on the top-left there is an *open project panel* button. When clicking it, the project panel will open on the left side of the screen. Close this dialog and resume your game by pressing the *close project panel* button on the top-right.
-
-The project panel contains the following tabs:
-
--   **Scenery**: add and remove scenery such as trees, buildings, tables, etc. to your level
--   **Actors**: add and remove game characters and monsters
--   **Project tree**: overview of your complete game, data and resources
--   **Settings**: settings of the currently selected actor, level, ...
-
-### Menu button
-
-Maximise RPG Playground over your entire screen. Not available in games yet.
