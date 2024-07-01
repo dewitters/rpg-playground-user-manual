@@ -11,6 +11,9 @@ Using RPG Playground in the classroom is a fantastic choice for engaging student
 - 🔒 **Privacy first**: We don’t collect personal information and comply with privacy regulations.
 - 🎉 **Student enthusiasm**: Students enjoy RPG Playground so much that they often introduce it to their teachers, making it a popular choice for group projects.
 
+RPG Playground is used in classrooms around the world, from elementary, middle and high schools, all the way up to colleges and universities.
+
+
 ![RPG Playground used on laptops](img/laptops.jpeg)
 
 ### Learning Opportunities
