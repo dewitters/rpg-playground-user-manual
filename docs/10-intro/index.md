@@ -35,6 +35,7 @@ If you have other **questions**, want to propose **new features**, or just want 
 
 - 📰 [RPG Playground community](https://rpgplayground.com/activity/)
 - 💬 [Discord chat](https://discord.gg/tyHjdt3)
+- 📘 [Facebook group](https://www.facebook.com/groups/rpgplayground)
 - 📣 [Reddit forum](https://www.reddit.com/r/rpgplayground/)
 - ✉️ Email me at [info@rpgplayground.com](mailto:info@rpgplayground.com)
 
