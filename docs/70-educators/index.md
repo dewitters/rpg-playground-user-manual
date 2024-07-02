@@ -25,6 +25,7 @@ RPG Playground offers a diverse range of applications that are perfect for STEM 
 - 🧠 **Logical thinking & problem solving**: Enhance cognitive skills through game creation.
 - 🎨 **Game design**: Focus on game mechanics without the complexity of programming.
 - 💻 **Intro to coding**: Teach Object-Oriented Programming (OOP) concepts through our actions system.
+- 💵 **Financial literacy**: Create games that simulate real-world financial scenarios.
 
 
 ### Classroom Integration

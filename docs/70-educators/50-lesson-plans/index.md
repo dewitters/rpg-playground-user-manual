@@ -11,7 +11,8 @@
 
 ## Materials
 
-Students have a laptop or Chromebook with internet access to https://rpgplayground.com and https://youtube.com for tutorial videos.
+- Computer with internet access to https://rpgplayground.com and https://youtube.com. Can be a Chromebook.
+- Headphones (per student)*, optional
 
 
 ## Learning Goals
