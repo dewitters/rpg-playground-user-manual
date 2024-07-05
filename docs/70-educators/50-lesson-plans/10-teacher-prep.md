@@ -1,5 +1,14 @@
 # Teacher prep
 
+No need for a Computer Science background.
+
+Let students help each other.try and not worry about not being an expert of the software to begin with. Eventually you will need to be at least competent with it but at first you can figure it out together with the students.
+
+Perfect 4th to 10th grade students.
+
+video series for this might be easier
+
+
 ## Materials
 
 - Computer with internet access to https://rpgplayground.com and https://youtube.com. Can be a Chromebook.
@@ -69,3 +78,7 @@ Pair or group students. Assign one student as the "driver" who controls the comp
 Whole class. Project the lesson and videos on a screen where all students can see. After watching the Introduction video, have the class suggest how you might build the project.
 
 Station rotation. If you have a computer station in your classroom, allow students to rotate to the computers to complete the lesson. 
+
+
+## Tips for supporting students
+

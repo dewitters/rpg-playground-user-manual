@@ -1,7 +1,11 @@
+---
+sidebar_label: First game
+---
+
 # Lesson Plan: Start making games with RPG Playground
 
 
-## Grade Level
+## Suggested Grade Level
 
 - Primary school students (grades 4-5)
 - Middle school students (grades 7-8)
@@ -18,8 +22,18 @@
 
 - 2 class periods (90 minutes each)
 
+## Driving Question
+
+How can I create a game?
+
+## Main Goal
+
+Students will create a complete video game
 
 ## Lesson Objectives
+
+- Texas-Teks
+- CSTA
 
 - **Cognitive Objectives:** 
   - Understand key events and figures of the American Revolution.
