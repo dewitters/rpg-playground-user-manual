@@ -15,8 +15,8 @@ All the levels of your game.
 
 Click on a level to jump to that level.
 
-- **Properties**: Click to see the properties of the level.
-- **Delete**: Click to delete the level.
+- ![](img/props_icon_small.png) **Properties**: Click to see the properties of the level.
+- ![](img/delete_icon_small.png) **Delete**: Click to delete the level.
 
 Click `+ ADD NEW LEVEL` to add an extra level. There is no limit on the number of levels you can add.
 

@@ -2,7 +2,7 @@
 sidebar_label: First game
 ---
 
-# Lesson Plan: Start making games with RPG Playground
+# Lesson Plan: Make your first game with RPG Playground
 
 
 ## Suggested Grade Level
