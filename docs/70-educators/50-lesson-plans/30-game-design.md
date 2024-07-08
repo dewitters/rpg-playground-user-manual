@@ -5,6 +5,12 @@ sidebar_label: Game design
 # Lesson Plan: Game design
 
 
+## Learning Goals
+
+
+- Video game design
+
+
 - Gating: only allow the player to progress if they have completed a task or answered a question correctly.
 - Feedback from players
 
