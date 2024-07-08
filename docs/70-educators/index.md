@@ -7,19 +7,22 @@ Using RPG Playground in the classroom is a fantastic choice for engaging student
 
 - 🎓 **Beginner-friendly**: Intuitive and easy to use, allowing students to jump right in.
 - 💾 **No download or installation needed**: Runs in the browser on any internet-connected device, including Chromebooks.
+- ☁️ **Projects stored in the cloud**: Log in and continue your project on any device.
 - 🎮 **No coding required**: *Action Wizard* enables students to create games without writing any code.
 - 🔒 **Privacy first**: We don’t collect personal information and comply with privacy regulations.
 - 🎉 **Student enthusiasm**: Students enjoy RPG Playground so much that they often introduce it to their teachers, making it a popular choice for group projects.
-- Continue on any device
 
-RPG Playground is used in classrooms around the world, from elementary, middle and high schools, all the way up to colleges and universities.
+It's perfect for 4th to 10th grade students (ages 9-15), but is definitely not limited to it. 
+
+RPG Playground is currently used in classrooms around the world, from elementary, middle and high schools, all the way up to colleges and universities.
 
 
 ![RPG Playground used on laptops](img/laptops.jpeg)
 
+
 ### Learning Opportunities
 
-RPG Playground offers a diverse range of applications that are perfect for STEM subjects and extend far beyond:
+RPG Playground offers a diverse range of applications that are perfect for STEM and extend far beyond:
 
 - 🏰 **History**: Create games set in historical periods for immersive learning.
 - 📖 **Literature & storytelling**: Recreate scenes from books or craft original stories.
@@ -31,19 +34,15 @@ RPG Playground offers a diverse range of applications that are perfect for STEM 
 
 ### Classroom Integration
 
-Explore the different ways RPG Playground can be utilized in the classroom:
+RPG Playground can be utilized in different ways in the classroom:
 
-1. **Student-created games**: Individually, in pairs, or groups, students can design their own games.
+1. **Student-created games**: Individually or in pairs, students can design their own games.
 2. **Teacher-created games**: Educators can develop educational games for students to play.
-3. **Group projects**: Students can collaboratively create educational games on various topics, sharing and learning from each other’s creations.
 
 
 ### Getting Started
 
-Using RPG Playground in the classroom can be engaging and exciting for students. Here’s how you can begin:
-
-1. [**Sign Up for Free**](https://rpgplayground.com/register/): Access our free version and start exploring.
-2. [**Upgrade to Teacher Dashboard**](https://rpgplayground.com/teacher/): Unlock advanced features and management tools for an enhanced experience.
+[**Read our Teacher Prep guide**](teacher-prep) to get started.
 
 ---
 

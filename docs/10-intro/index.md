@@ -27,9 +27,14 @@ RPG Playground is created by me, Koen Witters. You can find me in all the RPG Pl
 
 ## Questions and answers
 
-If you can't find what you are looking for, you can **search**:
+The main resources are:
 
-- ❓ [Frequenty Asked Questions](https://rpgplayground.com/faqs/).
+- 📚 [This User Manual](index.md): The documentation you are reading right now.
+- 📺 [YouTube tutorials](https://www.youtube.com/playlist?list=PLhbqFRp1-ByeaMsTbqk1Y2awd0S3zGeHQ): Official video tutorials on how to use RPG Playground.
+
+If you can't the answer to your question, **search**:
+
+- ❓ [Frequently Asked Questions](https://rpgplayground.com/faqs/).
 
 If you have other **questions**, want to propose **new features**, or just want to **hang out** in our community, reach out at:
 
