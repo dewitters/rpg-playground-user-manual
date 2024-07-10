@@ -57,6 +57,11 @@ const config: Config = {
       },
       items: [
         {
+          href: 'https://www.facebook.com/groups/gamesforteachers',
+          label: 'Teacher Community',
+          position: 'right',
+        },
+        {
           href: 'https://rpgplayground.com',
           label: 'RPG Playground Website',
           position: 'right',
@@ -70,6 +75,28 @@ const config: Config = {
     },
     footer: {
       style: 'dark',
+      
+      links: [
+        {
+          title: 'Community',
+          items: [
+            {
+              label: 'Teacher Community',
+              href: 'https://www.facebook.com/groups/gamesforteachers',
+            },
+          ],
+        },
+        {
+          title: 'More',
+          items: [
+            {
+              label: 'RPG Playground Website',
+              href: 'https://rpgplayground.com',
+            },
+          ],
+        },
+      ],
+
       copyright: `Copyright © ${new Date().getFullYear()} Koen Witters. Built with Docusaurus.`,
     },
     prism: {
