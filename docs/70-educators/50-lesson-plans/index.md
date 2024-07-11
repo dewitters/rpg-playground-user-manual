@@ -9,10 +9,10 @@ Share your experiences with our community of teachers.
 
 ## Materials
 
-- Computer (can be a ChromeBook) with internet access to:
+1. Computer (can be a ChromeBook) with internet access to:
     - [rpgplayground.com](https://rpgplayground.com)
     - [YouTube.com](https://youtube.com)
-- *Optional*: Headphones (per student)
+1. *Optional*: Headphones (per student)
 
 
 :::tip[Pair students]
@@ -25,9 +25,9 @@ Next to working individually, students can be paired: Assign one student as the 
 
 While RPG Playground can be beneficial at various educational levels, its alignment with the developmental and curricular needs of middle school students makes it particularly effective in this context. A period when they are capable of more complex thinking and problem-solving but still benefit greatly from interactive and engaging learning methods.
 
-RPG Playground offers a blend of creative, cognitive, and technical learning opportunities that can significantly enhance education across multiple subjects:
+RPG Playground offers a blend of creative, cognitive, and technical learning opportunities:
 
-- **ELA**: Creative Writing and Narrative Development
+- **English Language Arts (ELA)**: Creative Writing and Narrative Development
     - Objective: Students write and design an interactive story with multiple plot branches.
     - Activity: Using RPG Playground, students create characters, dialogue, and branching storylines that align with narrative writing standards.
 - **Social Studies**: Historical Simulations
@@ -44,7 +44,7 @@ RPG Playground offers a blend of creative, cognitive, and technical learning opp
     - Activity: Students use RPG Playground’s scripting features to create interactive elements, learning about variables, control structures, and event handling.
 
 
-### Elementary School (Grades 4-5)
+### Elementary School (grades 4-5, ages 9-11)
 
 Encourages creativity, introduces basic logic and problem-solving skills, helps in storytelling and character creation.
 
@@ -53,35 +53,21 @@ Encourages creativity, introduces basic logic and problem-solving skills, helps 
 - **Social studies**: 
 
 
-### Middle School (Grades 6-8)
+### Middle School (grades 6-8, ages 11-14)
 
-Enhances engagement with subject matter through interactive storytelling, promotes critical thinking and project management, helps in understanding complex concepts by visualizing them in a game format.
+Engages and motivates students with interactive storytelling. Develops higher-order thinking skills such as critical thinking, problem-solving, logical reasoning, creativity, and project management. Simplifies complex concepts through game-based visualization. Fosters social skills through collaborative projects and storytelling, which this age group particularly enjoys.
 
 - **History and Social Studies Projects**: Creating games based on historical events helps reinforce learning.
+    - Students can create historical simulations or social scenario games that reinforce their understanding of key events and concepts.
 - **Literature and Creative Writing**: Students can create interactive stories that improve their writing and storytelling skills.
+    - RPG Playground can enhance narrative writing skills, character development, and plot structuring.
 - **Science Simulations**: Visualizing scientific concepts and processes in an interactive environment.
+    - Science: Interactive games can illustrate scientific principles and processes, making abstract concepts more tangible.
+- **Technology Education**: Introduces basic programming concepts, logical thinking, and computational skills in an engaging way.
 - **Language learning**:
 
-#### Developmental Appropriateness:
 
-1. Cognitive Skills: Middle school students are developing higher-order thinking skills, making them well-suited to tasks that involve problem-solving, logical reasoning, and creative thinking—all of which are essential in game design.
-1. Social Skills: This age group enjoys collaborative projects and storytelling, both of which are integral to creating RPGs.
-
-#### Curriculum Integration:
-
-1. English Language Arts (ELA): RPG Playground can enhance narrative writing skills, character development, and plot structuring.
-1. Social Studies: Students can create historical simulations or social scenario games that reinforce their understanding of key events and concepts.
-1. Science: Interactive games can illustrate scientific principles and processes, making abstract concepts more tangible.
-1. Technology Education: Introduces basic programming concepts, logical thinking, and computational skills in an engaging way.
-
-#### Engagement and Motivation:
-
-RPG Playground provides an interactive platform that can make learning more engaging for middle school students, who may benefit from varied and dynamic instructional methods.
-
-The gamification of learning can increase motivation and investment in the educational content.
-
-
-### High School (Grades 9-12)
+### High School (grades 9-12, ages 14-18)
 
 Provides a platform for sophisticated project-based learning, fosters collaboration and communication skills, allows for deeper exploration of narrative techniques and game mechanics, and can be used to create complex simulations of historical events or social systems.
 
@@ -90,7 +76,6 @@ Provides a platform for sophisticated project-based learning, fosters collaborat
 - **Civics and government**: Creating simulations of governmental processes and historical events.
 - **Foreign language learning**: Developing interactive dialogues and scenarios to practice foreign languages.
 - **Advanced computer science concepts**:
-
 
 
 :::tip[supporting students]
