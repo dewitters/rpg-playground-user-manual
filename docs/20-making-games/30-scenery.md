@@ -93,3 +93,4 @@ Think about what the people and creatures would need. A smithy probably needs so
 
 :::
 
+Tile graphics [can be customized](/20-making-games/50-project-tree/index.md#images) in the [⭐](/65-premium.md) premium version.

@@ -2,7 +2,7 @@
 
 Statistics show that [women are under-represented in STEM fields](https://en.wikipedia.org/wiki/Women_in_STEM_fields).
 
-I am the father of 3 daughters and a son. My personal opinion is that most coding platforms don't do a good job at balancing the preferences of both girls and boys. I will show you how RPG Playground does this better.
+As a father of 3 daughters and a son, my personal opinion is that most coding platforms don't do a good job at balancing the preferences of both genders. I will show you how RPG Playground does this better.
 
 Most STEM curriculums use game development to introduce students to programming. This keeps students engaged and motivated. This is great, because in recent years, the ratio of female to male gamers [balanced out](https://en.wikipedia.org/wiki/Women_and_video_games). 
 
@@ -34,7 +34,7 @@ When you look at most game coding platforms, they heavily focus on *action*. Fan
 
 RPG Playground features **fantasy worlds** ✅, **character design** ✅ and **story elements** ✅ out of the box. While also supporting **action** ✅ elements. 
 
-This makes RPG Playground a more inclusive platform, and balances out different preferences in both boys and girls:
+This makes RPG Playground a more inclusive platform, and balances out different preferences in both girls and boys.
 
 
 ![](img/rpg_screens.png)

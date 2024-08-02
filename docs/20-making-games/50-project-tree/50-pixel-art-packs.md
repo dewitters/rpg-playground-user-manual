@@ -26,6 +26,7 @@ List of pixel art packs that you could use in [RPG Playground](https://rpgplaygr
 - [Game Boy Top-down RPG Fantasy Tileset (FREE)](https://gumpyfunction.itch.io/game-boy-rpg-fantasy-tileset-free): 8x8 tileset
 - [DantePixels](https://dantepixels.itch.io/): 16x16 icons
 - [allenski](https://allenski.itch.io/): 16x16 Fantasy tilesets
+- [Kauzz](https://itch.io/s/99995/kauzz-full-bundle): 32x32 and 48x48 modern tilesets
 
 Unfortunately following tilesets are not supported yet since RPG Playground only supports 32x32 pixels for now. But keeping this for future reference:
 
