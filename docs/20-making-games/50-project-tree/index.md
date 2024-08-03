@@ -37,19 +37,19 @@ The database of your game. This is where you can add and remove all kinds of dat
 
 When you have inventory enabled, your game features items that you can collect. This is where you can add, remove and change properties of items.
 
-> TODO: list properties and their effects
+<!-- TODO: list properties and their effects -->
 
 ### equipment slots
 
 When you have inventory enabled, the hero can equip certain items. This changes the stats to make the hero stronger.
 
-> TODO: list properties and their effects
+<!-- TODO: list properties and their effects -->
 
 ### damage types
 
 Monsters and heroes can inflict different types of damage. This is where you can add, remove and change properties of damage types.
 
-> TODO: list properties and their effects
+<!-- TODO: list properties and their effects -->
 
 ## resources [⭐](../premium)
 
@@ -61,4 +61,4 @@ All the file resources of your game. This includes images, and in the future als
 
 All the images that are used in your game. You can replace the graphics of existing images right now. In the future you will be able to add and delete images.
 
-> TODO: more info on replacing graphics
+<!-- TODO: more info on replacing graphics -->

@@ -39,4 +39,8 @@ Platforms where to find pixel art:
 - [Craftpix](https://craftpix.net/)
 
 
-> We hope to sell these art packs inside RPG Playground in the future.
+:::info
+
+We hope to sell these art packs inside RPG Playground in the future. 🙂
+
+:::
