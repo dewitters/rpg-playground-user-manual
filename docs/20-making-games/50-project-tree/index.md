@@ -27,9 +27,9 @@ Levels cannot be renamed. We hope to implement this soon, and that feature is on
 
 :::
 
-## data [⭐](../premium)
+## data [⭐](/65-premium.md)
 
-Only available when you purchased the [premium version of RPG Playground](../premium).
+Only available when you purchased the [premium version of RPG Playground](/65-premium.md).
 
 The database of your game. This is where you can add and remove all kinds of data that is used in your game.
 
@@ -51,9 +51,9 @@ Monsters and heroes can inflict different types of damage. This is where you can
 
 <!-- TODO: list properties and their effects -->
 
-## resources [⭐](../premium)
+## resources [⭐](/65-premium.md)
 
-Only available when you purchased the [premium version of RPG Playground](../premium).
+Only available when you purchased the [premium version of RPG Playground](/65-premium.md).
 
 All the file resources of your game. This includes images, and in the future also music and sounds.
 

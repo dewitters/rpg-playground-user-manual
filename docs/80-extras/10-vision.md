@@ -28,7 +28,7 @@ Our first product will focus on creating 2D RPG games, and is called RPG Playgro
 
 You design levels, add characters to it, and add cutscenes, dialogues, etc. You work with scenes, stages, scenery and actors. Define new functionality with actions.
 
-#### Gameplay scripter
+#### Coder
 
 You can define new actors and add or remove behaviors. You can even script new behaviors for actors. Add or change any functionality you want. Maybe some day also including editor functionality.
 

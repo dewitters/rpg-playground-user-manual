@@ -57,11 +57,6 @@ const config: Config = {
       },
       items: [
         {
-          href: 'https://www.facebook.com/groups/gamesforteachers',
-          label: 'Teacher Community',
-          position: 'right',
-        },
-        {
           href: 'https://rpgplayground.com',
           label: 'RPG Playground Website',
           position: 'right',
@@ -81,8 +76,24 @@ const config: Config = {
           title: 'Community',
           items: [
             {
+              label: 'RPG Playground community',
+              href: 'https://rpgplayground.com/activity/',
+            },
+            {
               label: 'Teacher Community',
               href: 'https://www.facebook.com/groups/gamesforteachers',
+            },
+            {
+              label: 'Discord chat',
+              href: 'https://discord.gg/tyHjdt3',
+            },
+            {
+              label: 'Facebook group',
+              href: 'https://www.facebook.com/groups/rpgplayground',
+            },
+            {
+              label: 'Reddit forum',
+              href: 'https://www.reddit.com/r/rpgplayground/',
             },
           ],
         },
@@ -92,6 +103,10 @@ const config: Config = {
             {
               label: 'RPG Playground Website',
               href: 'https://rpgplayground.com',
+            },
+            {
+              label: 'YouTube',
+              href: 'https://www.youtube.com/c/RPGPlayground',
             },
           ],
         },

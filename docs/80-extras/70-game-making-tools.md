@@ -1,6 +1,7 @@
 # Game Making Tools
 
-Handy to have a list of game making tools.
+Below is a list of alternative game making tools. **However**, none is as **easy** or **fun** as [RPG Playground](https://rpgplayground.com) of course. 😎
+
 
 ## RPGs
 
