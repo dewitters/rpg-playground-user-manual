@@ -20,8 +20,8 @@ We provide [various resources](../#questions-and-answers) so you and your studen
 
 1. Register for a free account at https://rpgplayground.com/register.
 1. Create a new game by going to [Make](https://rpgplayground.com/make/) and clicking on [New Game](https://rpgplayground.com/new-game/).
-1. A popup will ask you to watch the [YouTube tutorial](https://youtu.be/D54SjyJAxjs?si=Ru4_99jhB76vm2AH). This tutorial will teach you all the basics in 10 minutes.
-1. Try to create a simple game with a few levels, characters, and dialogues, as shown in the [tutorial video](https://youtu.be/D54SjyJAxjs?si=Ru4_99jhB76vm2AH).
+1. A popup will ask you to watch the [YouTube tutorial](https://youtu.be/KCNKuq5Aw78). This tutorial will teach you all the basics in 10 minutes.
+1. Try to create a simple game with a few levels, characters, and dialogues, as shown in the [tutorial video](https://youtu.be/KCNKuq5Aw78).
 1. If you need specific information, look at our [documentation, tutorials and community](../#questions-and-answers).
 1. If you want premium features, already subscribe your class to the [**Teacher Dashboard**](https://rpgplayground.com/teachers/) or get an [individual license](https://rpgplayground.com/upgrade/).
 
